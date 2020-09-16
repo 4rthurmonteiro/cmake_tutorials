@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-../my_math_dir/include/addition.h
+../my_math_dir/include/my_math/addition.h
 
-../my_math_dir/include/division.h
+../my_math_dir/include/my_math/division.h
 
 /Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/addition.cpp
-addition.h
-/Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/addition.h
+my_math/addition.h
+/Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/my_math/addition.h
 
 /Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/division.cpp
-division.h
-/Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/division.h
+my_math/division.h
+/Users/arthur/Tutorials/cmake_tutorials/module3/my_math_dir/src/my_math/division.h
 
