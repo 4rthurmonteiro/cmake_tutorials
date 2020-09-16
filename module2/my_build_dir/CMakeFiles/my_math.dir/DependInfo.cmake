@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/arthur/Tutorials/cmake_tutorials/module2/main.cpp" "/Users/arthur/Tutorials/cmake_tutorials/module2/my_build_dir/CMakeFiles/calculator.dir/main.cpp.o"
+  "/Users/arthur/Tutorials/cmake_tutorials/module2/addition.cpp" "/Users/arthur/Tutorials/cmake_tutorials/module2/my_build_dir/CMakeFiles/my_math.dir/addition.cpp.o"
+  "/Users/arthur/Tutorials/cmake_tutorials/module2/division.cpp" "/Users/arthur/Tutorials/cmake_tutorials/module2/my_build_dir/CMakeFiles/my_math.dir/division.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -14,8 +15,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/arthur/Tutorials/cmake_tutorials/module2/my_build_dir/CMakeFiles/my_math.dir/DependInfo.cmake"
-  "/Users/arthur/Tutorials/cmake_tutorials/module2/my_build_dir/CMakeFiles/my_print.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
