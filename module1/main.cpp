@@ -15,6 +15,7 @@ int main(){
     result_add = addition(first_no, second_no);
     result_div = division(first_no, second_no);
 
+
     print_result("Addition", result_add);
     print_result("Division", result_div);
 
